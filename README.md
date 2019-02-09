@@ -1,4 +1,4 @@
-# Ruby testing quick commands
+# Ruby testing cheatsheet
 
 ## Rspec
 
